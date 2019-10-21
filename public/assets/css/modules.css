@@ -209,7 +209,7 @@
         }
 
     #main > section.cover {
-      padding: 10em 0;
+      padding: 0;
       background-size: cover;
       background-position: center center;
     }

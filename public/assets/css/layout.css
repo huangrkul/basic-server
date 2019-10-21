@@ -1,6 +1,8 @@
 /* Container */
 
 .container {
+	position: relative;
+	top: -560px;
   margin: 0 auto;
   max-width: 100%;
   width: 1400px;
@@ -1620,6 +1622,11 @@ ul.icons {
     text-align: center;
     border: 0;
   }
+
+/* video */
+.bg-video {
+	width: 100%;
+}
 
 /* Form */
 
